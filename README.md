@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PramitKhatri
-- 👀 I’m interested in frontend designing as well as backend development in web applications.
-- 🌱 I’m currently learning React and Django with Python.
-- 💞️ I’m looking to collaborate on new ideas and projects.
+- 👀 I’m experienced in frontend designing using React as well as backend development using Django for web applications.
+- 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me: khatripramit155@gmail.com
 
 <!---
